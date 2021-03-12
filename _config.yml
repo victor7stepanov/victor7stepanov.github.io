@@ -25,7 +25,7 @@ projects:
   exclude:
     archived: true
     forks: true
-    projects: bjs-homeworks
+    projects: #bjs-homeworks
 
 social_media:
   # behance: your_username
