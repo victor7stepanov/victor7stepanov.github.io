@@ -27,6 +27,7 @@ projects:
     forks: false
     projects:
     # - repo-name
+    bjs-homeworks
 
 social_media:
   # behance: your_username
