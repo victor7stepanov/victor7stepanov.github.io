@@ -25,9 +25,7 @@ projects:
   exclude:
     archived: true
     forks: true
-    projects:
-    bjs-homeworks
-    # - repo-name
+    projects: bjs-homeworks
 
 social_media:
   # behance: your_username
