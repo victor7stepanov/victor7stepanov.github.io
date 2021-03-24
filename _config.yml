@@ -25,7 +25,7 @@ projects:
   exclude:
     archived: true
     forks: true
-    #projects: #repo-name
+    projects: victor7stepanov
 
 social_media:
   # behance: your_username
