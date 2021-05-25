@@ -21,7 +21,7 @@ projects:
   # sort_by options:
   #   - pushed
   #   - stars
-  limit: 13
+  limit: 12
   exclude:
     archived: true
     forks: true
@@ -32,7 +32,7 @@ social_media:
   # dribbble: your_username
   # facebook: your_username
   # hackerrank: your_username
-  # instagram: your_username
+  instagram: victor7stepanov
   # keybase: your_username
   linkedin: victor7stepanov
   # mastodon: your_username
