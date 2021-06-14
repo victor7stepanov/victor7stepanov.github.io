@@ -25,7 +25,7 @@ projects:
   exclude:
     archived: true
     forks: true
-    projects: victor7stepanov
+    projects: victor7stepanov, formating-days-and-times
 
 social_media:
   # behance: your_username
