@@ -25,7 +25,7 @@ projects:
   exclude:
     archived: true
     forks: true
-    projects: victor7stepanov, formating-days-and-times, myCalc
+    projects: victor7stepanov, formating-days-and-times, myCalc, simple-notes
 
 social_media:
   # behance: your_username
