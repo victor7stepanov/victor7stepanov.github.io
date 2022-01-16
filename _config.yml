@@ -25,7 +25,7 @@ projects:
   exclude:
     archived: true
     forks: true
-    projects: victor7stepanov, formating-days-and-times, myCalc, simple-notes, tic-tac-toe, modal-window, landing_SAN-D, first-app-react-type-script, podcast-app, constructor
+    projects: victor7stepanov, formating-days-and-times, myCalc, simple-notes, tic-tac-toe, modal-window, landing_SAN-D, first-app-react-type-script, podcast-app, constructor, reactTodoList, react-github-search, plugin-select
 
 social_media:
   # behance: your_username
